@@ -1,14 +1,31 @@
 # Hola👋, Soy Lucas Medran. 
 
  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ0ZjdpNXcxMm1nYndsNTE2MG5kdTFyaWxtcWVrbHlwc25rMmV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp">
+ ### ¡Bienvenido a mi perfil de GitHub!
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí:***
 
-Soy Lucas Medran, desarrollador Frontend y estudiante de Ingeniería en Sistemas de Información. Mi objetivo es combinar la teoría académica con la práctica, creando soluciones web que sean tanto funcionales como visualmente atractivas.
+Soy un desarrollador que cree que la web no es solo código, sino un lienzo para la creatividad. Mi misión es construir interfaces que no solo funcionen a la perfección, sino que también cautiven a los usuarios con su diseño e interactividad.
 
-Me destaco en el desarrollo de interfaces de usuario responsivas y dinámicas, utilizando principalmente:
+En este momento, mi "stack" principal es el que ves en mis repositorios: HTML, CSS, JavaScript, TypeScript, React y Angular. Estoy constantemente sumergiéndome en nuevos desafíos para aprender y perfeccionar mis habilidades, y me verás experimentando con tecnologías como Node.js y Java.
 
-- 📫 Comuníquese conmigo en: <a href="lucasmedran14@gmail.com">lucasmedran14@gmail.com</a>
+En mi mundo de la tecnología:
+
+🧠 Pienso en soluciones: Me encanta tomar un problema y convertirlo en un proyecto elegante.
+
+🛠️ Construyo con pasión: Cada línea de código es una oportunidad para mejorar la experiencia del usuario.
+
+🤝 Colaboro y comparto: Estoy siempre listo para colaborar en proyectos de código abierto y crecer junto a la comunidad.
+
+Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme. ¡La puerta de mi bandeja de entrada siempre está abierta!
+
+Conéctate conmigo:
+
+🔗 Mi Portafolio Web
+
+💼 LinkedIn
+
+📫 Email: lucasmedran14@gmail.com
 
 
 
