@@ -4,11 +4,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí:***
 
-oy un desarrollador Frontend y estudiante de Ingeniería en Sistemas de Información en la UTN-FRC. Me especializo en la creación de interfaces de usuario modernas e interactivas utilizando tecnologías como **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** y **Angular**.
+Soy Lucas Medran, desarrollador Frontend y estudiante de Ingeniería en Sistemas de Información. Mi objetivo es combinar la teoría académica con la práctica, creando soluciones web que sean tanto funcionales como visualmente atractivas.
 
-Actualmente estoy ampliando mis habilidades con **Node.js** y **Java** para fortalecer mi conocimiento en el desarrollo Backend.
-
-Me apasiona crear proyectos innovadores que resuelven desafíos reales. Estoy abierto a colaborar en proyectos de código abierto y contribuir a la comunidad.
+Me destaco en el desarrollo de interfaces de usuario responsivas y dinámicas, utilizando principalmente:
 
 - 📫 Comuníquese conmigo en: <a href="lucasmedran14@gmail.com">lucasmedran14@gmail.com</a>
 
