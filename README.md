@@ -21,9 +21,9 @@ Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnologí
 
 Conéctate conmigo:
 
-🔗 Mi Portafolio Web
+🔗 [Portafolio Web](https://lucasmedran.netlify.app/)
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-medran-b676b0249/)
 
 📫 Email: lucasmedran14@gmail.com
 
