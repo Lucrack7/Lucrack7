@@ -1,32 +1,34 @@
-# Hola👋, Soy Lucas Medran. 
+# 👋 ¡Hola! Soy Lucas Medran
 
- <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ0ZjdpNXcxMm1nYndsNTE2MG5kdTFyaWxtcWVrbHlwc25rMmV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp">
- ¡Bienvenido a mi perfil de GitHub!
+## 🚀 Frontend Developer | Web Designer
+Soy un apasionado del desarrollo web con experiencia en la creación de **interfaces modernas, responsivas y funcionales**.  
+Me encanta transformar ideas en aplicaciones reales, aplicando **buenas prácticas** y manteniéndome en constante aprendizaje.  
 
+### 🛠️ Tecnologías y herramientas
+- **Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, React, Angular, Bootstrap  
+- **Backend:** Node.js, Python, Java  
+- **Otras:** Git, GitHub, APIs REST, LocalStorage, Netlify/Vercel  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí:***
+### 📂 Proyectos destacados
+- 🐱‍👤 **[Pokedex Lite (Angular)](https://link-demo.netlify.app)** – SPA con API Pokémon + login.  
+- 🍔 **[Venta de Comida Rápida (Angular)](https://appcomidarapida.netlify.app)** – Carrito de compras + integración con WhatsApp.  
+- 👥 **[Administrador de Clientes (React)](https://papaya-donut-3eca14.netlify.app)** – CRUD completo en React.  
+- 💰 **[Cotizador de Criptomonedas (React)](https://astonishing-wisp-a70375.netlify.app)** – Cotizaciones en tiempo real con API externa.  
+- 🖼️ **[Buscador de Imágenes (React)](https://cheerful-florentine-5ae501.netlify.app)** – API de Pixabay + paginación.  
+- 🌦️ **[App de Clima (React)](https://sunny-elf-2fb3d9.netlify.app)** – Datos en tiempo real de API meteorológica.  
+- 🎞️ **[Buscador de GIFs (Angular)](https://link-demo.netlify.app)** – API de Giphy con historial de búsqueda.  
 
-Soy un desarrollador que cree que la web no es solo código, sino un lienzo para la creatividad. Mi misión es construir interfaces que no solo funcionen a la perfección, sino que también cautiven a los usuarios con su diseño e interactividad.
+### 🌐 Portafolio
+📌 [lucasmedran.netlify.app](https://lucasmedran.netlify.app)  
 
-En este momento, mi "stack" principal es el que ves en mis repositorios: HTML, CSS, JavaScript, TypeScript, React y Angular. Estoy constantemente sumergiéndome en nuevos desafíos para aprender y perfeccionar mis habilidades, y me verás experimentando con tecnologías como Node.js y Java.
+### 📫 Contacto
+- 📧 [lucasmedran14@gmail.com](mailto:lucasmedran14@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-medran-b676b0249/)  
+- 🐙 [GitHub](https://github.com/Lucrack7)  
 
-En mi mundo de la tecnología:
+---
 
-🧠 Pienso en soluciones: Me encanta tomar un problema y convertirlo en un proyecto elegante.
-
-🛠️ Construyo con pasión: Cada línea de código es una oportunidad para mejorar la experiencia del usuario.
-
-🤝 Colaboro y comparto: Estoy siempre listo para colaborar en proyectos de código abierto y crecer junto a la comunidad.
-
-Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme. ¡La puerta de mi bandeja de entrada siempre está abierta!
-
-Conéctate conmigo:
-
-🔗 [Portafolio Web](https://lucasmedran.netlify.app/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/lucas-medran-b676b0249/)
-
-📫 Email: lucasmedran14@gmail.com
+💡 Siempre abierto a colaborar en proyectos interesantes, aprender nuevas tecnologías y seguir creciendo como desarrollador. 🚀
 
 
 
