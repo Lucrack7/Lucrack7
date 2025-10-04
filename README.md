@@ -9,11 +9,11 @@ Actualmente, mi stack se centra en **HTML, CSS, JavaScript, TypeScript, React y 
 
 ---
 
-## 🚀 Acerca de mí
+##  Acerca de mí:
 - 🧠 **Pienso en soluciones:** Disfruto transformar problemas en proyectos útiles y creativos.  
 - 🛠️ **Construyo con pasión:** Cada línea de código es una oportunidad de mejorar la experiencia del usuario.  
 - 🤝 **Trabajo en equipo:** Siempre listo para colaborar en proyectos y crecer junto a la comunidad tech.  
-- 🌱 Actualmente sigo reforzando mis conocimientos en **ciberseguridad y buenas prácticas de desarrollo**.  
+- 🌱 Actualmente sigo reforzando mis conocimientos en **Análisis de datos con Python y buenas prácticas de desarrollo**.  
 
 ---
 
